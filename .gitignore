@@ -1,0 +1,6 @@
+# Ignore local environment files and secrets
+.env
+*.jpg
+*.jpeg
+*.png
+__pycache__/
